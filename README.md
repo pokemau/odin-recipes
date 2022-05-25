@@ -2,4 +2,4 @@
 
 this is a project in odin
 
-recipes project
+a recipe project all in html only
